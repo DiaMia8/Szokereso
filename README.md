@@ -1,0 +1,2 @@
+# Szokereso
+ OKJ vizsga gyakorlás
